@@ -1,4 +1,4 @@
-## Modyfikacja obrazu w oparciu filtr rozmywający – implementacja dwóch algorytmów
+## Modyfikacja obrazu w oparciu filtr rozmywający – implementacja dwóch algorytmów:
 
 ### filtr uśredniający
 
