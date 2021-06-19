@@ -1,5 +1,4 @@
-Modyfikacja obrazu w oparciu filtr rozmywający – należy zaimplementować dwa algorytmy -
-filtr uśredniający oraz filtr Gaussa
+## Modyfikacja obrazu w oparciu filtr rozmywający – należy zaimplementować dwa algorytmy - filtr uśredniający oraz filtr Gaussa
 
 Obraz przed rozmyciem
 
