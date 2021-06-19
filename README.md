@@ -1,6 +1,6 @@
-## Modyfikacja obrazu w oparciu o filtr rozmywający – implementacja dwóch algorytmów:
+### Modyfikacja obrazu w oparciu o filtr rozmywający – implementacja dwóch algorytmów:
 
-### filtr uśredniający
+#### filtr uśredniający
 
 - Zdjęcie przed rozmyciem
 
@@ -10,7 +10,7 @@
 
 ![Po_rozmyciu](https://user-images.githubusercontent.com/79860696/122643596-e9f8a300-d110-11eb-8d13-674edf169760.jpg)
 
-### filtr Gaussa
+#### filtr Gaussa
 
 - Zdjęcie przed zastosowaniem filtru Gauss'a
 
