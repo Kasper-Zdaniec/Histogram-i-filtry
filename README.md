@@ -1,5 +1,5 @@
 ## Modyfikacja obrazu w oparciu filtr rozmywający – implementacja dwóch algorytmów
-- filtr uśredniający
+-- filtr uśredniający
 - filtr Gaussa
 
 Zdjęcie przed rozmyciem
