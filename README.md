@@ -1,4 +1,5 @@
-# LAB-7-Rozmycie-oraz-Gauss
+#  Modyfikacja obrazu w oparciu filtr rozmywający – należy zaimplementować dwa algorytmy -
+filtr uśredniający oraz filtr Gaussa
 
 Obraz przed rozmyciem
 
@@ -13,6 +14,7 @@ Oraz po zastosowaniu filtra
 
 ![Po rozmyciu](https://user-images.githubusercontent.com/80647495/122533000-5e541900-d021-11eb-8ef0-bbf4c1732027.png)
 
+#
 
 Zdjecie przed Gaussem
 
